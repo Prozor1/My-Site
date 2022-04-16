@@ -29,13 +29,19 @@ ul{
 	color: rgb(137, 24, 78);
 }
 
-.ahref{
-	text-align: right;
-	height: 50px;
-	background-color: rgb(206, 193, 193);
+.img{
+   align-items: left;
 }
 
-.ahref a{
-	margin: 30px;
+.had{
+   text-align: center;
+	height: 50px;
+	background-color: rgb(206, 193, 193);
+   padding: 20px;
+   margin: 30px;
+}
+
+.had a{
+   margin: 10px;
 }
 
