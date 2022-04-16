@@ -28,3 +28,14 @@ ul{
 	list-style-position:outside;
 	color: rgb(137, 24, 78);
 }
+
+.ahref{
+	text-align: right;
+	height: 50px;
+	background-color: rgb(206, 193, 193);
+}
+
+.ahref a{
+	margin: 30px;
+}
+
